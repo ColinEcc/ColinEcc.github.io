@@ -1112,7 +1112,6 @@ section.lazy-placeholder:after {
 .cid-rPLao9evCB {
   padding-top: 75px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/background4.jpg");
 }
 .cid-rPLao9evCB .mbr-media span {
   font-size: 48px;
@@ -1167,6 +1166,32 @@ section.lazy-placeholder:after {
 }
 .cid-rPLao9evCB a.close:hover {
   color: #ffffff;
+}
+.cid-rPOGOZnVRf {
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-rPOGOZnVRf .icons-media-container {
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-rPOGOZnVRf .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-rPOGOZnVRf .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-rPOGOZnVRf .mbr-text {
+  color: #ffffff;
+}
+.cid-rPOGOZnVRf .card {
+  padding-bottom: 1.5rem;
 }
 .cid-rPLgB7Po4h .modal-body .close {
   background: #1b1b1b;
@@ -1405,4 +1430,18 @@ section.lazy-placeholder:after {
 }
 .cid-rPLgB7Po4h .mbr-overlay ~ .container-slide {
   z-index: auto;
+}
+.cid-2MGokYziB6 {
+  padding-top: 75px;
+  padding-bottom: 95px;
+  background-image: url("https://i.imgur.com/FLszoiX.jpg");
+}
+.cid-2MGokYziB6 svg {
+  overflow: hidden;
+  vertical-align: middle;
+  position: absolute;
+  bottom: 0;
+}
+.cid-2MGokYziB6 .wave {
+  fill: #ffffff;
 }
