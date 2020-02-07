@@ -1110,8 +1110,8 @@ section.lazy-placeholder:after {
   color: #767676 !important;
 }
 .cid-rPLao9evCB {
-  padding-top: 75px;
-  padding-bottom: 75px;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 .cid-rPLao9evCB .mbr-media span {
   font-size: 48px;
@@ -1165,6 +1165,9 @@ section.lazy-placeholder:after {
   border-radius: 50%;
 }
 .cid-rPLao9evCB a.close:hover {
+  color: #ffffff;
+}
+.cid-rPLao9evCB H1 {
   color: #ffffff;
 }
 .cid-rPOGOZnVRf {
@@ -1431,17 +1434,78 @@ section.lazy-placeholder:after {
 .cid-rPLgB7Po4h .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
-.cid-2MGokYziB6 {
-  padding-top: 75px;
-  padding-bottom: 95px;
-  background-image: url("https://i.imgur.com/FLszoiX.jpg");
+.cid-rPPlRzYaxe {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #232323;
 }
-.cid-2MGokYziB6 svg {
-  overflow: hidden;
-  vertical-align: middle;
-  position: absolute;
-  bottom: 0;
+@media (max-width: 767px) {
+  .cid-rPPlRzYaxe .content {
+    text-align: center;
+  }
+  .cid-rPPlRzYaxe .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
 }
-.cid-2MGokYziB6 .wave {
-  fill: #ffffff;
+@media (max-width: 767px) {
+  .cid-rPPlRzYaxe .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-rPPlRzYaxe .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
+}
+.cid-rPPlRzYaxe .media-wrap img {
+  height: 6rem;
+}
+@media (max-width: 767px) {
+  .cid-rPPlRzYaxe .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rPPlRzYaxe .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-rPPlRzYaxe .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+.cid-rPPlRzYaxe .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-rPPlRzYaxe .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rPPlRzYaxe .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rPPlRzYaxe .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rPPlRzYaxe .footer-lower .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+}
+.cid-rPPlRzYaxe P {
+  color: #efefef;
+  text-align: left;
+}
+.cid-rPPlRzYaxe H5 {
+  color: #ff3366;
 }
