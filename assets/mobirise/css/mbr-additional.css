@@ -1112,10 +1112,6 @@ section.lazy-placeholder:after {
 .cid-rPPteosTCU .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rPLao9evCB {
-  padding-top: 80px;
-  padding-bottom: 560px;
-}
 .cid-rPLao9evCB .mbr-media span {
   font-size: 80px;
   cursor: pointer;
@@ -1140,7 +1136,7 @@ section.lazy-placeholder:after {
 }
 .cid-rPLao9evCB .modalWindow {
   position: fixed;
-  z-index: 5000;
+  z-index: 100%;
   left: 0;
   top: 0;
   background-color: rgba(61, 61, 61, 0.65);
