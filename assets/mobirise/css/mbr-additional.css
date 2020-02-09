@@ -1174,144 +1174,34 @@ section.lazy-placeholder:after {
   color: #ffffff;
   text-align: left;
 }
-.cid-rQ0GO9EZRe {
+.cid-rQ0MhDR1Kw {
   padding-top: 0px;
   padding-bottom: 0px;
   background-image: url("../../../assets/images/et-begge-3b-492x382.jpeg");
 }
-.cid-rQ0GO9EZRe .mbr-section-subtitle,
-.cid-rQ0GO9EZRe .mbr-text {
-  color: #767676;
-}
-.cid-rQ0GO9EZRe .card {
-  display: -webkit-flex;
-  position: relative;
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-rQ0GO9EZRe .card-wrapper {
-  height: 100%;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-rQ0GO9EZRe .card-wrapper .card-img {
-  display: -webkit-flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-  overflow: hidden;
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
-  -webkit-flex-direction: column;
-  -webkit-align-items: center;
-  -webkit-justify-content: center;
-}
-.cid-rQ0GO9EZRe .card-wrapper .card-img .mbr-overlay {
-  background-color: #ffffff;
-  display: none;
-  transition: opacity .3s;
-}
-.cid-rQ0GO9EZRe .card-wrapper .card-img img {
-  width: 100%;
-}
-.cid-rQ0GO9EZRe .card-wrapper .card-box {
-  background-color: #ffffff;
-  padding: 0 2rem 2rem 2rem;
-  border-bottom-left-radius: 0;
-  border-bottom-right-radius: 0;
-}
-.cid-rQ0GO9EZRe .card-wrapper .card-box h4 {
+.cid-rQ0MhDR1Kw h4 {
   font-weight: 500;
   margin-bottom: 0;
-  padding-top: 2rem;
+  text-align: left;
 }
-.cid-rQ0GO9EZRe .card-wrapper .card-box p {
-  margin-bottom: 0;
-  padding-top: 1.5rem;
-  padding-top: 2rem;
-}
-.cid-rQ0GO9EZRe .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-}
-.cid-rQ0GO9EZRe .card-img .mbr-overlay {
-  display: block !important;
-  opacity: 0;
-}
-.cid-rQ0GO9EZRe .card-img:hover .mbr-overlay {
-  opacity: .5;
-}
-.cid-rQ0IBDT70X {
-  padding-top: 0px;
-  padding-bottom: 0px;
-}
-.cid-rQ0IBDT70X .mbr-section-subtitle,
-.cid-rQ0IBDT70X .mbr-text {
+.cid-rQ0MhDR1Kw p {
   color: #767676;
+  text-align: left;
 }
-.cid-rQ0IBDT70X .card {
-  display: -webkit-flex;
-  position: relative;
-  justify-content: center;
-  -webkit-justify-content: center;
+.cid-rQ0MhDR1Kw .card-box {
+  padding-top: 2rem;
 }
-.cid-rQ0IBDT70X .card-wrapper {
+.cid-rQ0MhDR1Kw .card-wrapper {
   height: 100%;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-rQ0IBDT70X .card-wrapper .card-img {
-  display: -webkit-flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-  overflow: hidden;
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
-  -webkit-flex-direction: column;
-  -webkit-align-items: center;
-  -webkit-justify-content: center;
-}
-.cid-rQ0IBDT70X .card-wrapper .card-img .mbr-overlay {
-  background-color: #ffffff;
-  display: none;
-  transition: opacity .3s;
-}
-.cid-rQ0IBDT70X .card-wrapper .card-img img {
-  width: 100%;
-}
-.cid-rQ0IBDT70X .card-wrapper .card-box {
-  background-color: #ffffff;
-  padding: 0 2rem 2rem 2rem;
-  border-bottom-left-radius: 0;
-  border-bottom-right-radius: 0;
-}
-.cid-rQ0IBDT70X .card-wrapper .card-box h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  padding-top: 2rem;
-}
-.cid-rQ0IBDT70X .card-wrapper .card-box p {
-  margin-bottom: 0;
-  padding-top: 1.5rem;
-  padding-top: 2rem;
-}
-.cid-rQ0IBDT70X .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-}
-.cid-rQ0IBDT70X .card-img .mbr-overlay {
-  display: block !important;
-  opacity: 0;
-}
-.cid-rQ0IBDT70X .card-img:hover .mbr-overlay {
-  opacity: .5;
 }
 .cid-rQ0EbVsCEM {
   background-image: url("../../../assets/images/foto-talehendnes-2-16-2000x1334.jpg");
 }
 .cid-rQ0EOej114 {
   background-image: url("../../../assets/images/mlp-2239-1024x684.jpg");
+}
+.cid-rQ0MPDzBgE {
+  background-image: url("../../../assets/images/screen-shot-2019-08-27-at-21.49.22-1542x728.png");
 }
 .cid-rQ0HRJbtPS {
   background-image: url("../../../assets/images/et-foto-johanne-karlsrud-4918-2000x1334.jpg");
