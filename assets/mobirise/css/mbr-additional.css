@@ -2299,7 +2299,7 @@ section.lazy-placeholder:after {
 .cid-rQ7FaUUwyy {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #232323;
   overflow: hidden;
 }
 .cid-rQ7FaUUwyy .mbr-slider .carousel-control {
@@ -2333,7 +2333,7 @@ section.lazy-placeholder:after {
   background: transparent !important;
 }
 .cid-rQ7FaUUwyy .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
+  opacity: 0.4 !important;
 }
 .cid-rQ7FaUUwyy .mbr-gallery-title {
   font-size: .9em;
@@ -2354,7 +2354,7 @@ section.lazy-placeholder:after {
   z-index: -1;
   position: absolute;
   background: #554346 !important;
-  opacity: 0.7;
+  opacity: 0.4;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
@@ -2362,7 +2362,7 @@ section.lazy-placeholder:after {
 .cid-rQ7H0ONcUK {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/ok-foto-talehendnes-2-70-492x314.jpg");
+  background-image: url("../../../assets/images/ok7-1667x1667.jpg");
 }
 .cid-rQ6Lfj2RuD .navbar {
   padding: .5rem 0;
